@@ -7,7 +7,11 @@
 
 <!-- ── ANIMATED TYPING HEADER ─────────────────────────────────────────────── -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhan+Kumar+P;Embedded+Systems+%7C+IoT+%7C+6G+%2F+RIS+Research;Building+the+Hardware+of+Tomorrow+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+👋,+I'm+Madhan+Kumar+P;Embedded+Systems+|+Firmware+Development;PIC18F4580+|+Real-Time+Systems)](https://git.io/typing-svg)
+
+<h3 align="center">
+Embedded Systems Trainee | Embedded C | PIC18F4580 | Firmware Development
+</h3>
 
 <br/>
 
@@ -23,7 +27,7 @@
 ## 🧑‍💻 About Me
 
 ```c
-/* ── Madhan Kumar P ── Embedded Systems & IoT Engineer ── */
+/* ── Madhan Kumar P ── Embedded Systems & Firmware Engineer ── */
 
 #include <stdio.h>
 #include <string.h>
@@ -40,24 +44,23 @@ typedef struct {
 int main() {
     Engineer me = {
         .name     = "Madhan Kumar P",
-        .role     = "Embedded Systems & IoT Developer",
+        .role     = "Embedded Systems & Firmware Engineer",
         .location = "India 🇮🇳",
         .domains  = {
-            "Embedded Systems & ESP32",
-            "IoT & Sensor Integration",
-            "PCB Design & Electronics",
-            "C / C++ Systems Programming",
-            "Reconfigurable Intelligent Surfaces (RIS)",
-            "6G Wireless Communication Research"
+             "Embedded Systems & ESP32",
+             "Embedded Firmware Development",
+             "C / C++ Systems Programming",
+    
+            
         },
-        .currently_learning = "6G / RIS Technology + Advanced PCB Design",
-        .goal = "Bridge hardware engineering with next-gen wireless research"
+        .currently_learning = "Advanced Embedded Systems & RTOS",
+        .goal = "Develop reliable real-time embedded and firmware solutions"
     };
 
-    printf("🔭 Working on : IoT sensor nodes & RIS prototypes\n");
+    printf("🔭 Working on : PIC18F4580 firmware & embedded projects\n");
     printf("🌱 Learning   : %s\n", me.currently_learning);
     printf("🎯 Goal       : %s\n", me.goal);
-    printf("⚡ Fun fact   : I debug hardware with an oscilloscope & coffee ☕\n");
+    printf("⚡ Fun fact   : I love turning datasheets into working hardware 🚀\n");
 
     return 0;
 }
@@ -72,27 +75,19 @@ int main() {
 ### ⚙️ Embedded & Hardware
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![PIC18F4580](https://img.shields.io/badge/PIC18F4580-CC0000?style=for-the-badge)
 
-### 📡 IoT & Communication
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![WiFi](https://img.shields.io/badge/Wi--Fi-0068B3?style=for-the-badge&logo=wifi&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
-![I2C/SPI](https://img.shields.io/badge/I2C%20%7C%20SPI%20%7C%20UART-FF6B35?style=for-the-badge)
+### 🔌 Embedded Communication Protocols
+![UART](https://img.shields.io/badge/UART-FF6B35?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-00599C?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-00979D?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN-8A2BE2?style=for-the-badge)
+![GSM](https://img.shields.io/badge/GSM-228B22?style=for-the-badge)
 
 ### 🖥️ Software & OS
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🔧 Design & Simulation
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1BA0E9?style=for-the-badge)
-![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
 </div>
 
@@ -102,13 +97,14 @@ int main() {
 
 <div align="center">
 
-| 🔬 Project | 📋 Description | 🛠 Stack | ⭐ |
-|:---|:---|:---|:---:|
-| [**LSB Steganography**](https://github.com/Madhan-kumar-P/LSB-Steganography-Project) | Hide secret data inside images using LSB bit manipulation. Clean C implementation with full CLI interface | `C` `Bit Manipulation` `File I/O` | 🔒 |
-| [**MP3 Tag Reader**](https://github.com/Madhan-kumar-P/mp3-tag-reader-c) | Parse and edit ID3 metadata tags in MP3 files — low-level binary file handling in pure C | `C` `Binary Parsing` `ID3v2` | 🎵 |
-| [**Address Book CLI**](https://github.com/Madhan-kumar-P/Addressbook-Project) | Full-featured contact management system using file I/O, structs, and dynamic memory | `C` `File I/O` `Structs` | 📒 |
-| **ESP32 IoT Node** *(Coming Soon)* | Multi-sensor IoT node with MQTT telemetry, OTA updates, and WiFi provisioning | `ESP32` `MQTT` `C++` | 📡 |
-| **RIS Simulation** *(Coming Soon)* | Reconfigurable Intelligent Surface beam-forming model for 6G channel optimization | `MATLAB` `Python` `6G` | 📶 |
+| 🔬 Project | 📋 Description | 🛠 Stack |
+|:---|:---|:---|
+| LSB Steganography System | Secure BMP image-based data hiding using LSB encoding/decoding techniques | Embedded C, File Handling, Bitwise Operations |
+| Inverted Search Engine | Hash-table based indexing engine for fast keyword searching across multiple files | C, Data Structures, Linked Lists |
+| MP3 Tag Reader & Editor | Binary-level MP3 metadata parser and editor supporting ID3 tags | C, Binary Parsing, File I/O |
+| Arbitrary Precision Calculator | Large-number arithmetic calculator using doubly linked lists | C, Dynamic Memory Management |
+| Address Book Management System | Console-based persistent contact management system | C, Structures, File Handling |
+| Intelligent Car Safety System | Real-time accident detection and GSM emergency alert system using Raspberry Pi | Raspberry Pi, Python, GSM |
 
 </div>
 
@@ -159,22 +155,10 @@ int main() {
 ## 🎯 Current Focus & Future Goals
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                        ROADMAP  2025 → 2027                             │
-├────────────────────────────┬────────────────────────────────────────────┤
-│  ✅ COMPLETED              │  🔄 IN PROGRESS                            │
-│  ─────────────             │  ────────────────                           │
-│  • C Systems Programming   │  • Advanced ESP32 + FreeRTOS               │
-│  • File I/O & Bit Ops      │  • KiCad PCB Design                        │
-│  • Python scripting        │  • MQTT IoT Architecture                   │
-├────────────────────────────┼────────────────────────────────────────────┤
-│  📅 SHORT TERM (6 months)  │  🚀 LONG TERM (2 years)                    │
-│  ──────────────────────    │  ──────────────────────                     │
-│  • Build 3 IoT projects    │  • Publish RIS/6G research paper           │
-│  • Design first PCB        │  • Contribute to ESP-IDF open source       │
-│  • Master FreeRTOS RTOS    │  • Build a full IoT product from scratch   │
-│  • Learn MQTT + Node-RED   │  • Work on 6G testbed prototyping          │
-└────────────────────────────┴────────────────────────────────────────────┘
+• Develop interrupt-driven firmware projects
+• Master RTOS concepts & task scheduling
+• Build PIC18F4580 peripheral drivers
+• Improve embedded debugging skills
 ```
 
 ---
@@ -183,13 +167,14 @@ int main() {
 
 <div align="center">
 
-| Domain | Focus Area | Status |
-|:---|:---|:---:|
-| 📡 **6G Technology** | Sub-THz communication, ultra-low latency | 🟡 Exploring |
-| 🔲 **Reconfigurable Intelligent Surfaces** | Passive beamforming, channel modeling | 🟡 Exploring |
-| 🌐 **Massive MIMO** | Antenna arrays, spatial multiplexing | 🔵 Learning |
-| ⚡ **Edge Computing IoT** | On-device inference, TinyML | 🔵 Learning |
-| 🛡️ **Embedded Security** | Secure boot, hardware attestation | ⚪ Planned |
+- Embedded Firmware Development
+- PIC18F4580 Microcontroller Programming
+- Real-Time Embedded Systems
+- Communication Protocols (UART, SPI, I2C, CAN)
+- Embedded Linux
+- Sensor Interfacing
+- Hardware Debugging
+- Embedded System Design
 
 </div>
 
@@ -199,11 +184,10 @@ int main() {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/madhan-kumar-358100289)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhankumar990096@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madhan-kumar-P)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/YOUR-HANDLE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/YOUR-HANDLE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/https://leetcode.com/problemset/?search=c)
 
 </div>
 
